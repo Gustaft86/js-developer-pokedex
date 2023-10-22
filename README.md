@@ -1,6 +1,6 @@
-# Projeto JS Developer - Pokedex
+# Projeto Pokedex
 
-Projeto desenvolvido para estudo de HTML e CSS, pelo Bootcamp da Dio.
+Projeto desenvolvido para estudo de HTML e CSS, pelo Bootcamp da Dio/Santander na trilha de Angular+Java.
 
 Neste projeto é realizado uma requisição http para a API do PokeApi. Cria-se elementos html e css.
 
